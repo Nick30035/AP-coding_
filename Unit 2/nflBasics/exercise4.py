@@ -14,7 +14,7 @@ plot_weekly_player_stats(2024, "RB", stat="rushing_yards", top_n=15, week=[1,2,3
 # 1. Use each helper function to find your own metric to visualize. use the weeklyPlayerStats function to find positions and stat columns by name
  #  I created a graph showing the most rushing yards by a RB, S. Barkley 2504
 # 2. Find the player with the most touchdowns in 2024?
-# J.Gibbs
+# D. Henry with 21 total TDs
 # 3. find the player with the highest total passing yards in 2024.
 #J. Goff 4942
 # 4. which player had the highest rushing yards in week 1 and in week 17?
