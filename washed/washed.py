@@ -1,4 +1,4 @@
-from helperFunctions import plot_position_stat_bar,plot_player_stat_by_week,get_player_stats,get_season_totals_by_position
+from Ratings.helperFunctions import plot_position_stat_bar,plot_player_stat_by_week,get_player_stats,get_season_totals_by_position
 
 
 'ran through - lost their touch - not how they used to be- out of their prime'
